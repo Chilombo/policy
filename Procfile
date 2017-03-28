@@ -1,1 +1,1 @@
-app:policy.html
+web: gunicorn app:policy.html
